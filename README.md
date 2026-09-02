@@ -10,4 +10,4 @@ Full project specs can be found [here](https://www.theodinproject.com/lessons/no
 - All SVG's sourced from [SVG Repo](https://www.svgrepo.com/).
 
 ##### Live Preview
-- https://mjcw88.github.io/odin-todo-list/
+- https://thriftymeerkat.github.io/odin-todo-list/
